@@ -12,3 +12,5 @@ something here
 ##HEADING 3
 ##HEADING 4
 ##HEADING 5
+##HEADING 6
+##HEADING 7
