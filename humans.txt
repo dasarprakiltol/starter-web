@@ -3,7 +3,10 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+ Sastry Daita
+
+ Sastry.daita@somewhere.com
+
 
 # THANKS
 
